@@ -20,7 +20,7 @@ Reference profile: https://github.com/durgeshsamariya/awesome-github-profile-rea
 About Me :
 ---
 - 💼 Full-Stack developer based in Edmonton, AB
-- 👨‍💻 I build with: `HTML` `CSS` `JavaScript`, `React JS`, `.NET` ...
+- 👨‍💻 I build with: `HTML` `CSS` `JavaScript`, `React JS`, `.NET` 
 - 🎓 Studied Specialization in Computing Science at [University of Alberta](https://www.ualberta.ca/index.html)
 - ⚡ I like travelling, hiking, and playing soccer
 - 📫 Reach out to me: manajiibahmed@gmail.com
